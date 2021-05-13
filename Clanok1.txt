@@ -2,9 +2,9 @@ Autor: Hugo Štoff
 Nazov: Polícia zadržala tri opice
 Datum: 13. 5. 2021
 ----
-Aenean tempus ex magna, id suscipit nibh tempor sed.
-Integer et felis lobortis, condimentum velit malesuada, laoreet libero.
-Nulla et tristique mauris, ut pulvinar elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nullam pretium lectus at libero placerat posuere. Donec auctor id tortor ut maximus.
+Aenean quis orci in nibh euismod eleifend eget eget tellus.
 ----
 Praesent sit amet molestie sapien.
 Praesent ut vulputate ante.
