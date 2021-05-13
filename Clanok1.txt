@@ -2,14 +2,14 @@ Autor: Hugo Štoff
 Nazov: Polícia zadržala tri opice
 Datum: 13. 5. 2021
 ----
-Maecenas volutpat sodales urna, quis rutrum elit vulputate vitae.
-Vestibulum egestas urna id mi pretium posuere. Sed sit amet quam vitae tortor dictum posuere non ut nulla.
-Nullam sit amet libero sit amet elit porttitor bibendum.
+Aenean tempus ex magna, id suscipit nibh tempor sed.
+Integer et felis lobortis, condimentum velit malesuada, laoreet libero.
+Nulla et tristique mauris, ut pulvinar elit.
 ----
 Praesent sit amet molestie sapien.
 Praesent ut vulputate ante.
 In dolor dui, scelerisque nec magna quis, luctus ultrices augue.
 ----
-Donec rutrum, magna nec volutpat molestie, eros risus vestibulum tellus, vel aliquet quam turpis vel ligula.
-In sagittis et sem id bibendum.
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+Praesent felis sapien, iaculis vitae elit non, congue pulvinar orci.
+Phasellus molestie lectus et ex rutrum, ut efficitur diam interdum. Curabitur fermentum vel velit nec luctus.
+Phasellus vitae mi eget lorem aliquet tempor ac nec quam.
