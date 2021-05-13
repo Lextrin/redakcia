@@ -5,3 +5,7 @@ Datum: 13. 5. 2021
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Quisque vel luctus erat. Sed quis nisl at nulla pretium commodo nec sit amet lectus.
 Aenean viverra sem scelerisque risus finibus, non facilisis elit vehicula.
+----
+Praesent sit amet molestie sapien.
+Praesent ut vulputate ante.
+In dolor dui, scelerisque nec magna quis, luctus ultrices augue.
